@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ILans\Desktop\КС\Кр2\Мое\ServerSide\ServerSide\Main.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ILans\Desktop\КС\Кр2\Мое\ServerSide\ServerSide\Main.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+  ServerSide.vcxproj -> C:\Users\ILans\Desktop\КС\Кр2\Мое\ServerSide\Debug\ServerSide.exe
